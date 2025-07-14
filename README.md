@@ -26,13 +26,6 @@ An **advanced Arduino motor driver library** for the **TB6612FNG** dual H-Bridge
 
 ---
 
-## 📦 Installation
-
-1. Download the ZIP from [GitHub](https://github.com/X-croot/TB6612FNG-XCR)
-2. Open Arduino IDE
-3. Go to **Sketch > Include Library > Add .ZIP Library...**
-
----
 
 ## 🧠 Basic Usage
 

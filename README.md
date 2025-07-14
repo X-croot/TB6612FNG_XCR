@@ -3,7 +3,7 @@
 An **advanced Arduino motor driver library** for the **TB6612FNG** dual H-Bridge module, designed with robotics in mind.
 
 ---
-<img width="474" height="474" alt="resim" src="https://github.com/user-attachments/assets/e95805ed-e5d3-499c-ba24-f7f5ab32134b" />
+<img width="474" height="300" alt="resim" src="https://github.com/user-attachments/assets/e95805ed-e5d3-499c-ba24-f7f5ab32134b" />
 
 ## 🚀 Features
 
@@ -25,7 +25,6 @@ An **advanced Arduino motor driver library** for the **TB6612FNG** dual H-Bridge
 * Any dual DC motor project with TB6612FNG
 
 ---
-<img width="405" height="338" alt="resim" src="https://github.com/user-attachments/assets/66654356-7125-45c8-bd78-759301f629bf" />
 
 ## 📦 Installation
 

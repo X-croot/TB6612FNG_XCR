@@ -124,12 +124,5 @@ Ensure STBY is connected and set HIGH in code using `setStandbyPin(pin)`.
 
 ---
 
-## 🛠️ Hardware Requirements
 
-* TB6612FNG dual motor driver module
-* 2x DC motors
-* Arduino (Uno, Nano, Mega, etc.)
-* STBY pin connection (optional but recommended)
-
----
 
